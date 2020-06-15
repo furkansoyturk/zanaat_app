@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>128521970062-cgbknru16g98es4vibui9ivjjdtslo2o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.128521970062-cgbknru16g98es4vibui9ivjjdtslo2o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtjJQNMB0Y8_zkDrHKtpnx1eewNv2-5dY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128521970062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zanaat.zanaatapp</string>
+	<key>PROJECT_ID</key>
+	<string>zanaatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zanaatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128521970062:ios:19b6be229ca970433b04df</string>
+	<key>DATABASE_URL</key>
+	<string>https://zanaatapp.firebaseio.com</string>
+</dict>
+</plist>

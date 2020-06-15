@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128521970062",
+    "firebase_url": "https://zanaatapp.firebaseio.com",
+    "project_id": "zanaatapp",
+    "storage_bucket": "zanaatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128521970062:android:536e3847083e6db53b04df",
+        "android_client_info": {
+          "package_name": "com.zanaat.zanaatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128521970062-r22df83hvdslqdf5k4qul82231macpqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuN5PE9E6L_g0ABeXNil-dmXmSXFM7NfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128521970062-r22df83hvdslqdf5k4qul82231macpqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

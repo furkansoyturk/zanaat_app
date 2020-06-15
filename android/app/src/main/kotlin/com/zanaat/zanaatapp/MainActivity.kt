@@ -1,0 +1,6 @@
+package com.zanaat.zanaatapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
